@@ -1,0 +1,15 @@
+div{
+    
+ background-color: blue;
+ color: yellow;
+ border:15px white;
+ padding: 15px;    
+     margin: 20px;
+     border-radius: 15px;
+}
+h1{
+    text-align: center;
+}
+#dol{
+   text-align: center;
+}
